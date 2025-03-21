@@ -9,8 +9,6 @@ Dataverse に、「メールのテンプレート」、「応対履歴」を保�
 
 https://github.com/user-attachments/assets/5556c64d-5d2b-4340-94c2-bc29c3726523
 
-そのメールのテンプレートに則って、メールの返信案を作成してくれます。
-
 ## 前提条件
 * AI Builder を利用しています。そのため、Power Apps Premium ライセンスが必要です。
 
